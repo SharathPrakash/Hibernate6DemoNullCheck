@@ -1,0 +1,3 @@
+org/hibernate/bugs/JPAUnitTestCase.class
+org/hibernate/bugs/ORMStandaloneTestCase.class
+org/hibernate/bugs/ORMUnitTestCase.class
